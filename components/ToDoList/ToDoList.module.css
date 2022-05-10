@@ -1,0 +1,10 @@
+.heder1 {
+    text-align: center;
+    color: white;
+    list-style:none;
+}
+.heder1 ul {
+    list-style:none;
+    box-sizing: border-box;
+    cursor: pointer;
+}
